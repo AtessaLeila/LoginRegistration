@@ -2864,8 +2864,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views/Home/Edit.cshtml",
+      "TargetPath": "Views/Home/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Home/_Register.cshtml",
       "TargetPath": "Views/Home/_Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/NewMovie.cshtml",
+      "TargetPath": "Views/Home/NewMovie.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/ShowMovie.cshtml",
+      "TargetPath": "Views/Home/ShowMovie.cshtml",
       "FileKind": "mvc"
     },
     {

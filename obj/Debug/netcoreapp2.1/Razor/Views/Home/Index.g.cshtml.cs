@@ -55,7 +55,7 @@ using MovieTime.Models;
             WriteLiteral("<div class=\"jumbotron\">\r\n    <h1>MovieTime</h1>\r\n</div>\r\n\r\n<div class=\"col-sm-8 well\">\r\n    ");
             EndContext();
             BeginContext(92, 28, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "660527d8aa0247aab13a9c84b139967f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fb2e3a0a52e344a7b779b3a4242ccce6", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -74,7 +74,7 @@ using MovieTime.Models;
             WriteLiteral("\r\n</div>\r\n<div class=\"col-sm-4 well\">\r\n    ");
             EndContext();
             BeginContext(163, 25, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "16e78ebb8f6f45ba85f35ae459b44077", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "528e34dd3ad14cb59a09d877d570c6b3", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

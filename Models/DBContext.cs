@@ -11,6 +11,8 @@ namespace MovieTime.Models {
             optionsBuilder.UseSqlite("Filename=mydb.db");
         }
         public DbSet<User> Users {get;set;}
+        public DbSet<Movie> Movies {get;set;}
+        public DbSet<Join> Joins {get;set;}
 
     }
 }

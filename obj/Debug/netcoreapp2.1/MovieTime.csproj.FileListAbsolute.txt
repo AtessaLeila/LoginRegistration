@@ -27,3 +27,6 @@
 /Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/_Login.g.cshtml.cs
 /Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/_Register.g.cshtml.cs
 /Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/Success.g.cshtml.cs
+/Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/NewMovie.g.cshtml.cs
+/Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/atessadailami/Desktop/MovieTime/obj/Debug/netcoreapp2.1/Razor/Views/Home/ShowMovie.g.cshtml.cs
